@@ -4,17 +4,19 @@
 
 ### python 3.6 核心组件
 
-numpy
+torch 1.0.0
 
-pandas
+tensorflow-gpu 1.8.0
 
-msgpack-python
+numpy 1.15.4
 
-spacy
+pandas 0.23.1
 
-allennlp
+msgpack-python 0.5.6
 
-numpy
+spacy 2.0.18
+
+allennlp 0.8.0
 
 ### pip包
 Package                  Version               
@@ -105,7 +107,7 @@ mxnet-cu90               1.2.0
 networkx                 2.1                   
 nltk                     3.4                   
 nose                     1.3.7                 
-numpy                    1.15.0                
+numpy                    1.15.4                
 numpydoc                 0.8.0                 
 overrides                1.9                   
 packaging                18.0                  
