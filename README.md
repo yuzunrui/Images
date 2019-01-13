@@ -1,4 +1,4 @@
-# Images for NLP
+# Image for NLP
 
 ## This image can only be used in LeinaoPAI, because it is based on /pai-images/deepo:v2.0.
 
